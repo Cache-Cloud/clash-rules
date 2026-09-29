@@ -126,6 +126,7 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoft365.com
   - DOMAIN-SUFFIX,missav.ai
+  - DOMAIN-SUFFIX,missav.ws
   - DOMAIN-SUFFIX,mongodb.com
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,mysql.com
